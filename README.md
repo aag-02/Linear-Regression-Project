@@ -1,5 +1,7 @@
 # Linear-Regression-Project
 
+Contents will be added to this repository in the coming days.
+
 ### Project Overview
 This project will apply Linear Regression techniques to predict housing prices. The primary objective is to demonstrate the effective use of statistical and machine learning methodologies/principles to derive accurate predictions from a set dataset. The scope of this project strictly involves implementing and fine-tuning a linear regression model to forecast housing prices.
 
